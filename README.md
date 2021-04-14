@@ -3,8 +3,10 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## About
-- **Current**: Eng Manager at **[@SAIL***THRU***](https://github.com/sailthru)**
-
+- **Current**: **[@shopify](https://github.com/shopify)**
+- **Past**
+- -   **[@SAIL***THRU***](https://github.com/sailthru)**
+- -   **[@dotdash](https://github.com/Dotdashcom)**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div>
   <img align="left" width="35%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brndnwng&layout=compact&count_private=true">
